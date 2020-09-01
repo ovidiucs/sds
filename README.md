@@ -1,4 +1,4 @@
-Simple Dynamic Strings
+Simple Dynamic Strings (test)
 ===
 
 **Notes about version 2**: this is an updated version of SDS in an attempt
